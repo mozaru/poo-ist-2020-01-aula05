@@ -7,6 +7,7 @@ int main()
 {
    TPoligono p;
    p.ler(); 
-   cout << "perimetro - " << p.perimetro(); 
+   cout << "perimetro - " << p.perimetro() << endl; 
+   cout << "Fim do programa." << endl;
    return 0;
 }
