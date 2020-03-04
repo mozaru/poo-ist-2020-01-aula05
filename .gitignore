@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#dev cpp arquivos que ele gera automaticamente
+*.layout
+Makefile.win
+
